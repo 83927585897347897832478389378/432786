@@ -1,11 +1,11 @@
 {
-Dev: "1A2E4002",
-newstext: "Pro Swapper works for 15.30. Enjoy! Join our Discord: discord.gg/X3Bg3JwPTC",
-patchnotes: "Fixed for 15.30! Added Wildcat",
-version: "0.7.6",
-discordurl: "https://discord.gg/X3Bg3JwPTC",
-download: "https://cdn.discordapp.com/attachments/777053390009925643/799005002806329384/Pro_Swapper.exe",
-music: "https://cdn.discordapp.com/attachments/777053390009925643/804162144152453150/ProSwapperMusic.exe",
-fov: "https://cdn.discordapp.com/attachments/777053390009925643/791085356703023104/ProSwapperFOV.exe",
-items: "sQUAAB+LCAAAAAAABACFlMtugzAQRff5isjrtoGxwabLqkLqqlXoDzgIiAWBqKZqpYh/Lw8F4uJxWLCYe5kD4siXzba/yKts5UHqjDxvL+NknCalqrUxGsd+8iPPOv5qTn1GYqWPuvyuKvJgq302c6lVaWkvDbveTrIY+IRzwXnIRSTCMPCBRmw3jQT3GAsFBIzDLr9ufFRpUz+d6wLj313MvYBHAe1vnid28/dgiy2UxB/2S+sb7B2Z/57nOmv7gm+NY1Vl16dtWHBgHRm4sXAPSx1YR0bdWGpgbVzm4Doy5uYyk2s2wHB9tR9uHLdnhtrY41jB0p5Usy7a4xEuGhiirX44LJ7ZmXiEWwaGZQiT4kw8whUDQ7G1YbAYZofiEe4X/PNrTrulSF5kWh5UXYwn7W3w0Z9u8jeb5uO423R/nS8+qbEFAAA="
+    "Dev":"1A2E4002",
+    "newstext":"Pro Swapper works for 15.30. Enjoy! Join our Discord: discord.gg/X3Bg3JwPTC",
+    "patchnotes": "Fixed for 15.30!\n Added Wildcat",
+    "version":"0.7.6",
+    "discordurl":"https://discord.gg/X3Bg3JwPTC",
+    "download":"https://cdn.discordapp.com/attachments/777053390009925643/799005002806329384/Pro_Swapper.exe",
+    "music": "https://cdn.discordapp.com/attachments/777053390009925643/804162144152453150/ProSwapperMusic.exe",
+    "fov": "https://cdn.discordapp.com/attachments/777053390009925643/791085356703023104/ProSwapperFOV.exe",
+    "items": "sQUAAB+LCAAAAAAABACFlMtugzAQRff5isjrtoGxwabLqkLqqlXoDzgIiAWBqKZqpYh/Lw8F4uJxWLCYe5kD4siXzba/yKts5UHqjDxvL+NknCalqrUxGsd+8iPPOv5qTn1GYqWPuvyuKvJgq302c6lVaWkvDbveTrIY+IRzwXnIRSTCMPCBRmw3jQT3GAsFBIzDLr9ufFRpUz+d6wLj313MvYBHAe1vnid28/dgiy2UxB/2S+sb7B2Z/57nOmv7gm+NY1Vl16dtWHBgHRm4sXAPSx1YR0bdWGpgbVzm4Doy5uYyk2s2wHB9tR9uHLdnhtrY41jB0p5Usy7a4xEuGhiirX44LJ7ZmXiEWwaGZQiT4kw8whUDQ7G1YbAYZofiEe4X/PNrTrulSF5kWh5UXYwn7W3w0Z9u8jeb5uO423R/nS8+qbEFAAA="
 }
